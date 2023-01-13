@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHajN6fsafJvemGX+yC4KXi5SoAeh2KLICQHuy/oJ+zFjPs4T25BB5WpVP5bWhynE22VuzzzTX/qG9eP7+IV9Q==",
+  "success": true,
+  "projectFilePath": "/home/math/Documentos/Voalle/desafio-trybe/src/desafio-trybe.csproj",
+  "expectedPackageFiles": [
+    "/home/math/.nuget/packages/bouncycastle/1.8.9/bouncycastle.1.8.9.nupkg.sha512",
+    "/home/math/.nuget/packages/itextsharp/5.5.13.3/itextsharp.5.5.13.3.nupkg.sha512",
+    "/home/math/.nuget/packages/pdfsharp/1.32.3057/pdfsharp.1.32.3057.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'BouncyCastle 1.8.9' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "BouncyCastle",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'iTextSharp 5.5.13.3' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'PDFsharp 1.32.3057' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "PDFsharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
