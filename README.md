@@ -40,5 +40,15 @@ Este projeto consiste em uma aplicação de console. Onde o usuário irá inform
 - **Após isso o sistema questionára se o usuário deseja transformar a sua imagem de diamente em um triangulo**
 > `O usuário deve responder com S ou N novamente, caso sim será gerado uma nova figura geométrica e o sistema fará as mesmas perguntas anteriores, se deseja relatório em PDF ou envio por email. Csso a resposta seja negativa, o sistema encerrará agradecendo por utilizar a aplicação.`
 
+ 
+> Caso informado F por exemplo:
+ 
+              A
+             B B
+            C   C
+           D     D
+          E       E
+         F         F
+         
 
 
